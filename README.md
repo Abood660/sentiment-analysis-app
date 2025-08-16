@@ -64,4 +64,4 @@ Prediction: Positive 🙂
 
 ## 🔗 Links
 - Dataset: [Kaggle IMDB Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-- Streamlit: [Streamlit Website](https://streamlit.io/)
+- Streamlit: [Streamlit Website](https://sentiment-analysis-app-hv6t6beht6yyqwfqyrk5oi.streamlit.app/)
